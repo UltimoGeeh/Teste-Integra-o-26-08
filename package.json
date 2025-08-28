@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "jest": "^30.1.1"
+  },
+  "name": "teste-integra-o-26-08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest",
+    "test-coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UltimoGeeh/Teste-Integra-o-26-08.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UltimoGeeh/Teste-Integra-o-26-08/issues"
+  },
+  "homepage": "https://github.com/UltimoGeeh/Teste-Integra-o-26-08#readme"
+}
